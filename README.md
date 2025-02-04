@@ -27,6 +27,6 @@ A kurzus célja, hogy a hallgatókat már a képzés első évében bevezesse a 
 
   - PyCharm-ban a következő módon hozhatunk létre virtuális környezetet: 
     
-      **File -> Settings -> Project: "<név>"-matmod-2024 -> Python Interpreter -> Add Interpreter -> Add Local Interpreter -> OK**
+      **File -> Settings -> Project: "<név>"-matmod-2025 -> Python Interpreter -> Add Interpreter -> Add Local Interpreter -> OK**
     
       Ekkor a folyamat végén egy új mappa fog megjelenni a projekt oldalsávban, aminek neve: `venv`.
